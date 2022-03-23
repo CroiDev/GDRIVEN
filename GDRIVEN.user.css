@@ -1,0 +1,11 @@
+@-moz-document domain("drive.google.com/") {
+    /* ==UserStyle==
+    @name         GDRIVE NEGRO
+    @description  Um tema para testes. rs
+    @author       Croi
+    @namespace    github.com/CroiDev
+    @version      0.0.1
+    ==/UserStyle== */
+
+    @import url("https://croidev.github.io/GDRIVEN/compilado.css");
+}
